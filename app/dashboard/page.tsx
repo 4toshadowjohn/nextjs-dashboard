@@ -1,11 +1,7 @@
-
-
-
-
 export default function Page(){
     return (
         <>
-            <h1>Dashboar page</h1>
+            <h1>Dashboard page</h1>
         </>
     )
 }
